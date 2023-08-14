@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.0272 0 0 1.0272 -.32708 -.32666)" stroke-width=".9477">
+  <path d="m11.563 5.1855a6.5626 6.5626 0 0 0-6.5626 6.5626 6.5626 6.5626 0 0 0 6.5626 6.5626 6.5626 6.5626 0 0 0 4.4013-1.6925l2.0222 2.0222a0.59353 0.59353 0 0 0 0.83981 0 0.59353 0.59353 0 0 0 0-0.83981l-2.057-2.057a6.5626 6.5626 0 0 0 1.3563-3.9955 6.5626 6.5626 0 0 0-6.5626-6.5626z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#4c566a" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <circle transform="scale(-1,1)" cx="-11.563" cy="11.749" r="5.3073" fill="#fff"/>
+  <path d="m12.84 14.214v-6.2795h-1.5343l-2.4548 1.4904 0.73425 1.1945 1.5671-0.9863v4.5808h-1.8301v1.3151h4.9315v-1.3151z" fill="#3e899e"/>
+ </g>
+ 
+<!-- (C) Collabora Productivity 2020, All Rights Reserved -->
+</svg>

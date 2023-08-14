@@ -1,0 +1,4 @@
+[Bootstrap]
+InstallMode=<installmode>
+ProductKey=LibreOffice 21.21
+UserInstallation=file://$APP_DATA_DIR

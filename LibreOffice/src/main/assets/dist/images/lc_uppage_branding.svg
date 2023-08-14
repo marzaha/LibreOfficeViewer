@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <path d="m6 4.7402v14.52h3.959v-1.4062h-2.7812v-11.707h6.875v2.793h2.7695v8.9141h-2.7812v1.4062h3.959v-11.092l-3.4004-3.4277z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#4c566a" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m15.529 14.446h-7.0588l3.5294-3.5607z" fill="#4c566a" style="paint-order:markers stroke fill"/>
+ <path d="m12 16.967v3.8462" fill="none" stroke="#4c566a" stroke-linecap="round" stroke-width="1.4"/>
+ 
+<!-- (C) Collabora Productivity 2020, All Rights Reserved -->
+</svg>

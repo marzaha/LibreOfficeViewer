@@ -1,0 +1,9 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m14.827 5.2778h5.3724v13.444h-5.3724z" fill="#b3b3b3" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m3 4c-0.545 0-1 0.455-1 1v14c0 0.545 0.455 1 1 1h18c0.545 0 1-0.455 1-1v-14c0-0.545-0.455-1-1-1h-18zm1 1.7773h16v12.445h-16v-12.445z" fill="#4d4d4d" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <g transform="translate(-7.375)" fill="#4d4d4d">
+  <path d="m20.689 4-0.31383 1v14l0.31383 1h1.6862v-16h-0.31383z" color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+
+<!-- (C) Collabora Productivity 2020, All Rights Reserved -->
+</svg>

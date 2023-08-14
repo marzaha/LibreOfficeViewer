@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <version value="2020.11.01" />
+    <identifier value="org.openoffice.en.hunspell.dictionaries" />
+    <display-name>
+        <name lang="en-US">English spelling dictionaries, hyphenation rules, thesaurus, and grammar checker</name>
+        <name lang="ar">قاموس التدقيق الإملائي للُّغة الإنجليزية، قواعد الواصلة، المترادفات والمدقق النحوي</name>
+        <name lang="cs">Slovník kontroly pravopisu, dělení slov, slovník synonym a kontrola gramatiky pro angličtinu</name>
+        <name lang="da">Engelsk ordbog for stavekontrol, orddelingsregler, synonymer og grammatikkontrol</name>
+        <name lang="de">Englisches Wörterbuch für Rechtschreibprüfung, Silbentrennung, Thesaurus und Grammatikprüfung</name>
+        <name lang="el">Αγγλικό λεξικό ορθογραφίας, συλλαβισμός, θησαυρός και γραμματική</name>
+        <name lang="es">Inglés: correctores ortográficos y gramaticales, sinónimos y reglas de división de palabras</name>
+        <name lang="fr">Dictionnaires d'orthographe, des synonymes, de grammaire et règle de coupure des mots anglais</name>
+        <name lang="he">מילוני איות, כללי פיסוק, אגרון ובדיקת דקדוק באנגלית</name>
+        <name lang="hu">Angol helyesírási szótárak, elválasztási szabályok, szinonimaszótár és nyelvi ellenőrző</name>
+        <name lang="is">Ensk stafsetningarorðasöfn, orðskiptireglur, samheitaorðasafn og málfræðiyfirferð</name>
+        <name lang="it">Dizionari ortografici inglesi, regole di sillabazione, dizionario di sinonimi e analizzatore grammaticale</name>
+        <name lang="ja">英語スペル辞書、ハイフネーション規則、類義語辞典と文法チェッカー</name>
+        <name lang="ko">영어 맞춤법 사전, 하이픈 규칙, 동의어 사전 및 문법 검사기</name>
+        <name lang="nb">Engelsk stavekontroll, orddeling, synonymer og grammatikkkontroll</name>
+        <name lang="nl">Engelse spelling woordenboeken, woordafbrekingsregels, thesaurus en grammaticacontrole</name>
+        <name lang="nn">Engelsk stavekontroll, orddeling, synonym, og grammatikkkontroll</name>
+        <name lang="pl">Angielskie słowniki ortograficzne, reguły dzielenia wyrazów, słownik wyrazów bliskoznacznych i sprawdzanie gramatyki</name>
+        <name lang="pt">Dicionário ortográfico, sinónimos, regras de hifenização e verificação gramatical em inglês</name>
+        <name lang="pt-BR">Dicionário ortográfico, sinônimos, regras de hifenização e verificação gramatical em inglês</name>
+        <name lang="ru">Английский орфографический словарь, правила переноса, тезаурус и проверка грамматики</name>
+        <name lang="sk">Anglický slovník na kontrolu pravopisu, delenie slov, slovník synoným a kontrola gramatiky</name>
+        <name lang="sl">Angleški jezik – slovarji za preverjanje črkovanja, vzorci za deljenje besed, slovarji sopomenk in preverjevalnik slovnice</name>
+        <name lang="sv">Engelsk stavningskontroll, avstavningsregler, synonymordbok och grammatikkontroll</name>
+        <name lang="tr">İngilizce yazım sözlüğü, heceleme kuralları ve dilbilgisi denetleyicisi</name>
+        <name lang="zh-CN">英语拼写词典、断词规则、同义词库与语法检查器</name>
+        <name lang="zh-TW">英文拼寫詞典、斷字與禁忌規則、同義詞庫及語法檢查器</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+    <icon>
+        <default xlink:href="English.png" />
+    </icon>
+    <publisher>
+        <name xlink:href="https://extensions.libreoffice.org/extensions/english-dictionaries" lang="en">Marco A.G.Pinto</name>
+    </publisher>
+</description>

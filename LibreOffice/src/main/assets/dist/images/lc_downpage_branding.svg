@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#4c566a">
+  <path d="m6 4.7402v1.0332 13.486h12v-11.092l-3.4004-3.4277h-0.54688v1.4062 2.793h2.7695v8.9141h-9.6445v-10.861-0.8457h2.7695v-1.4062h-3.9473z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m15.529 11.554h-7.0588l3.5294 3.5607z" style="paint-order:markers stroke fill"/>
+  <path d="m11.99 2.4766a0.70007 0.70007 0 0 0-0.68945 0.71094v5.8457a0.70007 0.70007 0 1 0 1.3984 0v-5.8457a0.70007 0.70007 0 0 0-0.70898-0.71094z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+ 
+<!-- (C) Collabora Productivity 2020, All Rights Reserved -->
+</svg>
